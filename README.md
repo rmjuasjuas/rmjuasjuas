@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner Principal](https://raw.githubusercontent.com/rmjuasjuas/rmjuasjuas/main/assets/banner-samurai-flores.jpg)
+![Banner Principal](https://imgur.com/Zm0pJFJ)
 
 # 荷西 米格爾
 ## JOSÉ MIGUEL RÍOS MONTOYA
